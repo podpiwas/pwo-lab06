@@ -4,8 +4,17 @@
  */
 package pwo.app;
 
+/**
+ *
+ * @author artur
+ */
 public class Sequence {
 
+    /**
+     * Metoda główna programu.
+     * 
+     * @param args Argumenty przekazywane do programu.
+     */
     public static void main(String[] args) {
 
         (new SeqToFileApp()).run(args);

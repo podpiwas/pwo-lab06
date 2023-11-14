@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/student/Pobrane/pwo/pwo-lab06/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab06 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab06 1.0-SNAPSHOT API'
+pwo.utils
+pwo.app
+pwo.seq
+/home/student/Pobrane/pwo/pwo-lab06/src/main/java = 1699976001167
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/package-search-index.js = 1699976417774
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/script.js = 1699976417794
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/overview-summary.html = 1699976417790
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/index.html = 1699976417758
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/javadoc.sh = 1699976320413
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/tag-search-index.js = 1699976417774
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/member-search-index.js = 1699976417774
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/help-doc.html = 1699976417794
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/module-search-index.js = 1699976417774
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/search.js = 1699976417794
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/jquery-ui.overrides.css = 1699976417798
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/element-list = 1699976417698
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/allclasses-index.html = 1699976417770
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/overview-tree.html = 1699976417754
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/index-all.html = 1699976417786
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/type-search-index.js = 1699976417774
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/stylesheet.css = 1699976417794
+/home/student/Pobrane/pwo/pwo-lab06/target/site/apidocs/allpackages-index.html = 1699976417774
